@@ -42,5 +42,5 @@ The model is built using **TensorFlow/Keras** and follows a CNN-based approach:
 - **Optimizer**: Adam  
 - **Loss Function**: Sparse Categorical Crossentropy  
 - **Evaluation Metric**: Accuracy  
-- **Training done using Google Colab (with GPU acceleration)**
+- **Training done using Google Colab**
 
